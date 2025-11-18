@@ -12,11 +12,19 @@
 
 ## 🎬 Demo Video
 
-https://github.com/rishikmuthyala/ai-course-companion/raw/main/.github/demo/demo.mp4
+<div align="center">
 
-> **📹 Watch the full demo** showing the complete flow: Canvas sync → Web scraping → Auto-summarization → Interactive Q&A
+### 📹 Watch the Full Demo
 
-*See how AI Course Companion seamlessly transforms lecture recordings into interactive study sessions with AI-powered notes and Q&A*
+https://github.com/rishikmuthyala/ai-course-companion/assets/demo.mp4
+
+**See the complete flow:** Canvas Sync → Web Scraping → Auto-Summarization → Interactive Q&A
+
+*Transform lecture recordings into interactive AI-powered study sessions*
+
+[⬇️ Download Demo Video](https://github.com/rishikmuthyala/ai-course-companion/raw/main/.github/demo/demo.mp4) | [⭐ Star this repo](https://github.com/rishikmuthyala/ai-course-companion)
+
+</div>
 
 ---
 
