@@ -12,10 +12,11 @@
 
 ## 🎬 Demo Video
 
-<!-- Replace this placeholder with your actual demo video -->
-https://github.com/user-attachments/assets/your-video-id-here
+https://github.com/YOUR_USERNAME/ai-course-companion/raw/main/.github/demo/demo.mp4
 
-*Watch how AI Course Companion seamlessly syncs Canvas courses, transcribes lecture recordings, and enables interactive AI-powered study sessions*
+> **📹 Watch the full demo** showing the complete flow: Canvas sync → Web scraping → Auto-summarization → Interactive Q&A
+
+*See how AI Course Companion seamlessly transforms lecture recordings into interactive study sessions with AI-powered notes and Q&A*
 
 ---
 
