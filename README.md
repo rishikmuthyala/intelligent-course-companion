@@ -12,7 +12,7 @@
 
 ## 🎬 Demo Video
 
-https://github.com/YOUR_USERNAME/ai-course-companion/raw/main/.github/demo/demo.mp4
+https://github.com/rishikmuthyala/ai-course-companion/raw/main/.github/demo/demo.mp4
 
 > **📹 Watch the full demo** showing the complete flow: Canvas sync → Web scraping → Auto-summarization → Interactive Q&A
 
@@ -192,7 +192,7 @@ intelligent-course-companion/
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-course-companion.git
+git clone https://github.com/rishikmuthyala/ai-course-companion.git
 cd ai-course-companion
 ```
 
@@ -358,9 +358,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rishik Muthyala**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@rishikmuthyala](https://github.com/rishikmuthyala)
+- LinkedIn: [Rishik Muthyala](https://linkedin.com/in/rishikmuthyala)
+- Portfolio: [AI Course Companion](https://github.com/rishikmuthyala/ai-course-companion)
 
 ---
 
@@ -378,10 +378,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? Here's how to get help:
 
-1. Check existing [Issues](https://github.com/yourusername/ai-course-companion/issues)
+1. Check existing [Issues](https://github.com/rishikmuthyala/ai-course-companion/issues)
 2. Create a new issue with detailed information
-3. Join our community discussions
-4. Email: support@yourproject.com
+3. Connect on [LinkedIn](https://linkedin.com/in/rishikmuthyala)
+4. Star the repo if you find it helpful!
 
 ---
 
