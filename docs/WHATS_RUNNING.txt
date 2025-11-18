@@ -1,0 +1,88 @@
+🎉 AI COURSE COMPANION - DEMO IS LIVE! 🎉
+
+═══════════════════════════════════════════════════════════════════
+
+✅ BACKEND API - Running
+   URL: http://localhost:8000
+   API Docs: http://localhost:8000/docs
+   Status: Healthy ✓
+   
+   Available Endpoints:
+   • GET  /              - Health check
+   • GET  /courses       - List courses
+   • POST /query/{id}    - Ask questions
+   • GET  /docs          - Interactive API docs
+
+═══════════════════════════════════════════════════════════════════
+
+✅ FRONTEND - Running
+   URL: http://localhost:5173
+   Status: Live ✓
+   
+   Browser should open automatically!
+   If not, manually open: http://localhost:5173
+
+═══════════════════════════════════════════════════════════════════
+
+📚 LOADED COURSES (24 chunks in database):
+
+   1. CS 446 - Search Engines
+      ID: 12345_cs446_search_engines
+      Lectures: 2 (Introduction to IR, Web Crawling)
+      
+   2. CS 360 - Computer Systems  
+      ID: 12346_cs360_computer_systems
+      Lectures: 1 (Operating Systems)
+
+═══════════════════════════════════════════════════════════════════
+
+🎯 QUICK TEST:
+
+The backend just answered:
+Question: "What is PageRank?"
+Answer: "PageRank is a ranking algorithm used to determine the 
+         importance of web pages based on the link structure..."
+         
+✅ System is working perfectly!
+
+═══════════════════════════════════════════════════════════════════
+
+🎬 HOW TO DEMO:
+
+1. Go to http://localhost:5173 (should be open in your browser)
+2. Click "Get Started" or "Chat" 
+3. Select a course (CS 446 or CS 360)
+4. Ask a question!
+
+Try these questions:
+• "What is PageRank and how does it work?"
+• "How does web crawling work?"
+• "What's the difference between processes and threads?"
+• "Explain deadlock in operating systems"
+
+═══════════════════════════════════════════════════════════════════
+
+📸 FOR LINKEDIN:
+
+Record your screen showing:
+1. Landing page (clean UI)
+2. Select course
+3. Ask question
+4. Show AI answer with sources
+5. Try another question
+
+Keep it 30-60 seconds!
+
+═══════════════════════════════════════════════════════════════════
+
+🛑 TO STOP:
+
+Press Ctrl+C in the terminal where you started the servers
+Or close this terminal window
+
+═══════════════════════════════════════════════════════════════════
+
+Need help? Read: DEMO_RUNNING.md or LINKEDIN_DEMO_GUIDE.md
+
+═══════════════════════════════════════════════════════════════════
+
